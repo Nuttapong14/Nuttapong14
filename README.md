@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Nuttapong Wongchai (Champ)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Software+Developer+from+Thailand+🇹🇭;AI+%26+Machine+Learning+Enthusiast;Cloud+Computing+Explorer;Always+Learning+Something+New!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Software+Developer;AI+%26+Machine+Learning+Enthusiast;Cloud+Computing+Explorer;Always+Learning+Something+New!" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -49,6 +49,8 @@ I'm always open to interesting conversations and collaboration opportunities!
   
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nuttapong14)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chkrap47@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white๖๗)](https://web.facebook.com/champion.wongchai)
+[![Hugging-Face](https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/Avocaduu14)
 
 </div>
 
