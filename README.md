@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Nuttapong Wongchai (Champ)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Software+Developer;AI+%26+Machine+Learning+Enthusiast;Cloud+Computing+Explorer;Always+Learning+Something+New!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Software+Engineer;AI+%26+Machine+Learning;Cloud+Computing+Explorer;Always+Learning+Something+New!" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
