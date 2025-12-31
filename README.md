@@ -42,16 +42,6 @@ I'm a passionate developer from Thailand. who loves exploring the intersection o
 ### Others
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nuttapong14&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuttapong14&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
 ## 🤝 Let's Connect!
 
 I'm always open to interesting conversations and collaboration opportunities!
